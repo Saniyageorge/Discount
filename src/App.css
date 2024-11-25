@@ -1,0 +1,67 @@
+*{
+  background-color: cornflowerblue;
+  
+}
+
+
+img{
+  width: 450px;
+  margin-top: -110px;
+
+
+}
+
+
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.div{
+  margin-top: -110px;
+  font-size: 60px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.div2{
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 10px;
+}
+
+input {
+  margin: 5px;
+}
+
+.div3{
+  font-size: 22px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.div2{
+  font-size: 22px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.div4{
+  border: 1px solid rgb(120, 10, 10);
+  border-width: 5px;
+  margin: 10px;
+  max-width: 500px;
+  border-radius: 10px;
+  margin-left: 450px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #000000;
+  color: white;
+  cursor: pointer;
+}
+
+p {
+  font-size: 18px;
+}
